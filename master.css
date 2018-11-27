@@ -1,0 +1,23 @@
+.shape01 {
+  float: left;
+  shape-outside: url(star-shape1-20.png);
+   shape-image-threshold: .2;
+  shape-margin: 20px;
+
+}
+
+.shape02 {
+  float: left;
+  shape-outside: url(tear.png);
+   shape-image-threshold: .2;
+  shape-margin: 20px;
+}
+
+.content01 {
+  overflow: hidden;
+  margin-bottom: 42px;
+}
+
+.content02 {
+  clear: left;
+}
